@@ -9,7 +9,7 @@
 }
 
 #friends-display-link i {
-  color: rgba(0, 0, 0, 0.3);
+  color: var(--grey_3);
 }
 
 .friends-screen {
@@ -26,7 +26,7 @@
   margin-bottom: 30px;
   display: flex;
   justify-content: space-between;
-  color: rgba(0, 0, 0, 0.5);
+  color: var(--grey_5);
 }
 
 @keyframes hideSplashScreen {
